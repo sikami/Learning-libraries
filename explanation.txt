@@ -1,0 +1,7 @@
+This is of i was doing:
+. guess.py : A program written in python to guess a number. Number to guess is range between 1 - 20 and user has 6 guesses to guess the correct number. This program is using a simple for loop, random module, and range() function
+
+
+
+
+
